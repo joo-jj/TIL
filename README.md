@@ -1,2 +1,3 @@
 # TIL
-git TIL 기록하기
+
+Today I Learned
