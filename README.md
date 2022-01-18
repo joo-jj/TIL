@@ -1,3 +1,1 @@
-Til
-
 Today I Learned
